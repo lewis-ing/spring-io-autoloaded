@@ -2,7 +2,7 @@
 
 基于spring io平台和spring boot及java 8及loaded的动态加载字节码
 
-## Quickstart
+## 快速入门
 
 方法:1
 1.Clone this git repo
@@ -15,7 +15,7 @@
 3.可以添加新的类及添加新的方法
 4.在项目的位置中，在打开另外一个windows终端控制台,运行mvn compile
 
-## Technologies
+## 所用到的技术
 
 java8
 spring io
